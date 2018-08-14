@@ -17,7 +17,7 @@ npm run test
 
 ### NOTE
 
-If you are Windows user in nightwatch.json you need.
+If you are OSX user in nightwatch.json you need.
 
 
     "cli_args" : {
@@ -28,7 +28,7 @@ If you are Windows user in nightwatch.json you need.
 
 
 
-If you are OSX user in nightwatch.json you need.
+If you are Windows user in nightwatch.json you need.
 
 
 
